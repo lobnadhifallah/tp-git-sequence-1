@@ -2,6 +2,6 @@
 using namespace std ;
 int main ()
 {
-cout << "bienvenue dans le depot git!" << endl; 
+std::cout << "bienvenue le monde!" << std:;: endl; 
 return 0; 
 }
